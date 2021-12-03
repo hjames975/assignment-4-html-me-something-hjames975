@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 35%;
+    height: 35%; 
+}
+
+li {
+    display: inline;
+    padding: 15px;
+    float: center;
+}
